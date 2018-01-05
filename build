@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t guahanweb/docker-node-boilerplate:$(cat version) .
+docker build -t guahanweb/blockchain-basic:$(cat version) .
